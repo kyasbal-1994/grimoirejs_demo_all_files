@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "es6",
+    "noImplicitAny": true,
+    "outDir": "./lib"
+  },
+  "filesGlob": [
+    "./src/**/*.ts"
+  ],
+  "files": [
+  ],
+  "exclude": [],
+  "atom": {
+    "rewriteTsconfig": true
+  }
+}
